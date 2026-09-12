@@ -1,6 +1,6 @@
 # MAESTRO
 
-MAESTRO is an agentic fraud-detection pipeline for the Reply challenge datasets. It combines deterministic risk features with LLM judging to identify suspicious outgoing transactions across dataset folders containing:
+MAESTRO is an agentic fraud-detection pipeline for the Reply challenge datasets. It combines deterministic risk features with LLM judging to identify suspicious outgoing transactions across dataset folder containing:
 
 - `transactions.csv`
 - `users.json`
